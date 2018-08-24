@@ -1,0 +1,9 @@
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\bin\Debug\ChipotleCalorieCounter.exe.config
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\bin\Debug\ChipotleCalorieCounter.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\bin\Debug\ChipotleCalorieCounter.pdb
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\obj\Debug\ChipotleCalorieCounter.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\obj\Debug\ChipotleCalorieCounter.pdb
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ChipotleCalorieCounterSolution\ChipotleCalorieCounter\obj\Debug\ChipotleCalorieCounter.csprojResolveAssemblyReference.cache
+C:\Users\Marie Kelling\Desktop\C-Sharp\VS Projects\IT - 1050\2 - ChipotleCalorieCounterSolution\ChipotleCalorieCounter\bin\Debug\ChipotleCalorieCounter.exe.config
+C:\Users\Marie Kelling\Desktop\C-Sharp\VS Projects\IT - 1050\2 - ChipotleCalorieCounterSolution\ChipotleCalorieCounter\obj\Debug\ChipotleCalorieCounter.exe
+C:\Users\Marie Kelling\Desktop\C-Sharp\VS Projects\IT - 1050\2 - ChipotleCalorieCounterSolution\ChipotleCalorieCounter\obj\Debug\ChipotleCalorieCounter.pdb

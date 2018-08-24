@@ -1,0 +1,6 @@
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojResolveAssemblyReference.cache
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ClassesAndObjectsSolution\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb

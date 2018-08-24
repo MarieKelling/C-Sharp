@@ -1,0 +1,6 @@
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\bin\Debug\ParametersAndConstructors.exe.config
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\bin\Debug\ParametersAndConstructors.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\bin\Debug\ParametersAndConstructors.pdb
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\obj\Debug\ParametersAndConstructors.csprojResolveAssemblyReference.cache
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\obj\Debug\ParametersAndConstructors.exe
+C:\Users\Marie Kelling\Desktop\Web-Development\C#\Projects\ParametersAndConstructorsSolution\ParametersAndConstructors\obj\Debug\ParametersAndConstructors.pdb
